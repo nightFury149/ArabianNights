@@ -33,11 +33,9 @@ Graphics Library: iGraphics
 ## How to Run the Project
 Make sure you have the following installed:
 
-* Visual Studio 2013**
-
-* iGraphics Library** (included in project dependencies)
-
-* Windows SDK** (for Windows API functions)
+* Visual Studio 2013
+* MinGW Compiler
+* iGraphics Library (included in this repository)
 
 Open the project in Visual Studio 2013
 
